@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\bin\Debug\Manipulation_Data_Jagged_Array.exe.config
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\bin\Debug\Manipulation_Data_Jagged_Array.exe
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\bin\Debug\Manipulation_Data_Jagged_Array.pdb
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\obj\Debug\Manipulation_Data_Jagged_Array.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\obj\Debug\Manipulation_Data_Jagged_Array.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\obj\Debug\Manipulation_Data_Jagged_Array.exe
+D:\Mphasis-B2\Day-6\Manipulation_Data_Jagged_Array\Manipulation_Data_Jagged_Array\obj\Debug\Manipulation_Data_Jagged_Array.pdb
